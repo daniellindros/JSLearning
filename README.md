@@ -1,2 +1,2 @@
 # JSLearning
-Collection of small programs created while learning JS
+Collection of small programs created while learning JS.
